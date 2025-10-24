@@ -1,0 +1,2 @@
+{"id": 1, "code": "def hello_world():\n    print('Hello, world!')", "lang": "python", "comment": "Prints Hello, world! to the console."}
+{"id": 2, "code": "public static void main(String[] args) {\n    System.out.println(\"Hello, world!\");\n}", "lang": "java", "comment": "Main method that prints Hello, world! in Java."}

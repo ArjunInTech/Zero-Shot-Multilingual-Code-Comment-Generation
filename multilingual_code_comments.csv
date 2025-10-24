@@ -1,0 +1,621 @@
+unique_id,code_snippet,programming_language,comment_english,target_language_code,comment_target_lang,comment_intent,source_url,comment_english_processed,comment_target_lang_processed,code_snippet_processed
+XLCoST_1,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",en,"Prints Hello, world! to the console.",Functionality,XLCoST_Dataset,prints hello world to the console,prints hello world to the console,"def hello_world():
+    print(<STR>)"
+XLCoST_2,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",en,"Main method that prints Hello, world! in Java.",Functionality,XLCoST_Dataset,main method that prints hello world in java,main method that prints hello world in java,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_1_TRANSLATED_hi,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",hi,"हैलो, दुनिया प्रिंट!कंसोल के लिए।",Translated,XLCoST_Dataset,prints hello world to the console,हल दनय परटकसल क लए,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_ta,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",ta,"ஹலோ, உலகம்!கன்சோலுக்கு.",Translated,XLCoST_Dataset,prints hello world to the console,ஹல உலகமகனசலகக,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_te,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",te,"ప్రింట్లు హలో, ప్రపంచం!కన్సోల్‌కు.",Translated,XLCoST_Dataset,prints hello world to the console,పరటల హల పరపచకనసలక,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_kn,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",kn,"ಹಲೋ, ವಿಶ್ವ!ಕನ್ಸೋಲ್‌ಗೆ.",Translated,XLCoST_Dataset,prints hello world to the console,ಹಲ ವಶವಕನಸಲಗ,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_ml,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",ml,"ഹലോ, വേൾഡ്!കൺസോളിലേക്ക്.",Translated,XLCoST_Dataset,prints hello world to the console,ഹല വൾഡകൺസളലകക,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_fr,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",fr,"Imprime bonjour, monde!à la console.",Translated,XLCoST_Dataset,prints hello world to the console,imprime bonjour mondeà la console,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_de,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",de,"Drucke Hallo, Welt!zur Konsole.",Translated,XLCoST_Dataset,prints hello world to the console,drucke hallo weltzur konsole,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_it,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",it,"Stampa ciao, mondo!alla console.",Translated,XLCoST_Dataset,prints hello world to the console,stampa ciao mondoalla console,"def hello_world():
+    print(<STR>)"
+XLCoST_1_TRANSLATED_es,"def hello_world():
+    print('Hello, world!')",Python,"Prints Hello, world! to the console.",es,"Imprime hola, mundo!a la consola.",Translated,XLCoST_Dataset,prints hello world to the console,imprime hola mundoa la consola,"def hello_world():
+    print(<STR>)"
+XLCoST_2_TRANSLATED_hi,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",hi,"मुख्य विधि जो हैलो, दुनिया को प्रिंट करती है!जावा में।",Translated,XLCoST_Dataset,main method that prints hello world in java,मखय वध ज हल दनय क परट करत हजव म,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_ta,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",ta,"ஹலோ, உலகத்தை அச்சிடும் முக்கிய முறை!ஜாவாவில்.",Translated,XLCoST_Dataset,main method that prints hello world in java,ஹல உலகதத அசசடம மககய மறஜவவல,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_te,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",te,"హలో, ప్రపంచాన్ని ముద్రించే ప్రధాన పద్ధతి!జావాలో.",Translated,XLCoST_Dataset,main method that prints hello world in java,హల పరపచనన మదరచ పరధన పదధతజవల,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_kn,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",kn,"ಹಲೋ, ಜಗತ್ತು ಮುದ್ರಿಸುವ ಮುಖ್ಯ ವಿಧಾನ!ಜಾವಾದಲ್ಲಿ.",Translated,XLCoST_Dataset,main method that prints hello world in java,ಹಲ ಜಗತತ ಮದರಸವ ಮಖಯ ವಧನಜವದಲಲ,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_ml,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",ml,"ഹലോ, ലോകം!ജാവയിൽ.",Translated,XLCoST_Dataset,main method that prints hello world in java,ഹല ലകജവയൽ,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_fr,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",fr,"Méthode principale qui imprime bonjour, monde!en Java.",Translated,XLCoST_Dataset,main method that prints hello world in java,méthode principale qui imprime bonjour mondeen java,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_de,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",de,"Hauptmethode, die Hallo, Welt!in Java.",Translated,XLCoST_Dataset,main method that prints hello world in java,hauptmethode die hallo weltin java,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_it,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",it,"Metodo principale che stampa ciao, mondo!in Java.",Translated,XLCoST_Dataset,main method that prints hello world in java,metodo principale che stampa ciao mondoin java,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+XLCoST_2_TRANSLATED_es,"public static void main(String[] args) {
+    System.out.println(""Hello, world!"");
+}",Java,"Main method that prints Hello, world! in Java.",es,"Método principal que imprime hola, mundo!en Java.",Translated,XLCoST_Dataset,main method that prints hello world in java,método principal que imprime hola mundoen java,"public static void main(String[] args) {
+    System.out.println(<STR>);
+}"
+DUMMY_21,"// Dummy code snippet 21
+void dummy_function_21() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 21.,hi,यह डमी फ़ंक्शन 21 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 21,यह डम फकशन 21 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_21() { /* This is a placeholder. */ }"
+DUMMY_22,"// Dummy code snippet 22
+void dummy_function_22() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 22.,es,Este es un comentario sintético para la función ficticia 22.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 22,este es un comentario sintético para la función ficticia 22,"// Dummy code snippet <NUM>
+void dummy_function_22() { /* This is a placeholder. */ }"
+DUMMY_23,"// Dummy code snippet 23
+void dummy_function_23() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 23.,ml,ഇതാണ് ഡമ്മി ഫംഗ്ഷൻ 23 നുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 23,ഇതണ ഡമമ ഫഗഷൻ 23 നളള ഒര സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_23() { /* This is a placeholder. */ }"
+DUMMY_24,"// Dummy code snippet 24
+void dummy_function_24() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 24.,fr,Ceci est un commentaire synthétique pour la fonction factice 24.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 24,ceci est un commentaire synthétique pour la fonction factice 24,"// Dummy code snippet <NUM>
+void dummy_function_24() { /* This is a placeholder. */ }"
+DUMMY_25,"// Dummy code snippet 25
+void dummy_function_25() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 25.,ta,போலி செயல்பாடு 25 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 25,பல சயலபட 25 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_25() { /* This is a placeholder. */ }"
+DUMMY_26,"// Dummy code snippet 26
+void dummy_function_26() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 26.,en,This is a synthetic comment for dummy function 26.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 26,this is a synthetic comment for dummy function 26,"// Dummy code snippet <NUM>
+void dummy_function_26() { /* This is a placeholder. */ }"
+DUMMY_27,"// Dummy code snippet 27
+void dummy_function_27() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 27.,ta,போலி செயல்பாடு 27 க்கு இது ஒரு செயற்கை கருத்து.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 27,பல சயலபட 27 கக இத ஒர சயறக கரதத,"// Dummy code snippet <NUM>
+void dummy_function_27() { /* This is a placeholder. */ }"
+DUMMY_28,"// Dummy code snippet 28
+void dummy_function_28() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 28.,es,Este es un comentario sintético para la función ficticia 28.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 28,este es un comentario sintético para la función ficticia 28,"// Dummy code snippet <NUM>
+void dummy_function_28() { /* This is a placeholder. */ }"
+DUMMY_29,"// Dummy code snippet 29
+void dummy_function_29() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 29.,te,డమ్మీ ఫంక్షన్ 29 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 29,డమమ ఫకషన 29 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_29() { /* This is a placeholder. */ }"
+DUMMY_30,"// Dummy code snippet 30
+void dummy_function_30() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 30.,en,This is a synthetic comment for dummy function 30.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 30,this is a synthetic comment for dummy function 30,"// Dummy code snippet <NUM>
+void dummy_function_30() { /* This is a placeholder. */ }"
+DUMMY_31,"// Dummy code snippet 31
+void dummy_function_31() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 31.,it,Questo è un commento sintetico per la funzione fittizia 31.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 31,questo è un commento sintetico per la funzione fittizia 31,"// Dummy code snippet <NUM>
+void dummy_function_31() { /* This is a placeholder. */ }"
+DUMMY_32,"// Dummy code snippet 32
+void dummy_function_32() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 32.,it,Questo è un commento sintetico per la funzione fittizia 32.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 32,questo è un commento sintetico per la funzione fittizia 32,"// Dummy code snippet <NUM>
+void dummy_function_32() { /* This is a placeholder. */ }"
+DUMMY_33,"// Dummy code snippet 33
+void dummy_function_33() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 33.,hi,यह डमी फ़ंक्शन 33 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 33,यह डम फकशन 33 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_33() { /* This is a placeholder. */ }"
+DUMMY_34,"// Dummy code snippet 34
+void dummy_function_34() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 34.,ml,ഇതാണ് ഡമ്മി ഫംഗ്ഷൻ 34 നായുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 34,ഇതണ ഡമമ ഫഗഷൻ 34 നയളള ഒര സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_34() { /* This is a placeholder. */ }"
+DUMMY_35,"// Dummy code snippet 35
+void dummy_function_35() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 35.,fr,Ceci est un commentaire synthétique pour la fonction factice 35.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 35,ceci est un commentaire synthétique pour la fonction factice 35,"// Dummy code snippet <NUM>
+void dummy_function_35() { /* This is a placeholder. */ }"
+DUMMY_36,"// Dummy code snippet 36
+void dummy_function_36() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 36.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 36 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 36,ಇದ ಡಮಮ ಫಕಷನ 36 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_36() { /* This is a placeholder. */ }"
+DUMMY_37,"// Dummy code snippet 37
+void dummy_function_37() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 37.,hi,यह डमी फ़ंक्शन 37 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 37,यह डम फकशन 37 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_37() { /* This is a placeholder. */ }"
+DUMMY_38,"// Dummy code snippet 38
+void dummy_function_38() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 38.,te,ఇది డమ్మీ ఫంక్షన్ 38 కోసం సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 38,ఇద డమమ ఫకషన 38 కస సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_38() { /* This is a placeholder. */ }"
+DUMMY_39,"// Dummy code snippet 39
+void dummy_function_39() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 39.,en,This is a synthetic comment for dummy function 39.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 39,this is a synthetic comment for dummy function 39,"// Dummy code snippet <NUM>
+void dummy_function_39() { /* This is a placeholder. */ }"
+DUMMY_40,"// Dummy code snippet 40
+void dummy_function_40() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 40.,ml,ഡമ്മി ഫംഗ്ഷനുള്ള സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 40,ഡമമ ഫഗഷനളള സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_40() { /* This is a placeholder. */ }"
+DUMMY_41,"// Dummy code snippet 41
+void dummy_function_41() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 41.,ta,போலி செயல்பாடு 41 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 41,பல சயலபட 41 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_41() { /* This is a placeholder. */ }"
+DUMMY_42,"// Dummy code snippet 42
+void dummy_function_42() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 42.,it,Questo è un commento sintetico per la funzione fittizia 42.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 42,questo è un commento sintetico per la funzione fittizia 42,"// Dummy code snippet <NUM>
+void dummy_function_42() { /* This is a placeholder. */ }"
+DUMMY_43,"// Dummy code snippet 43
+void dummy_function_43() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 43.,te,డమ్మీ ఫంక్షన్ 43 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 43,డమమ ఫకషన 43 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_43() { /* This is a placeholder. */ }"
+DUMMY_44,"// Dummy code snippet 44
+void dummy_function_44() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 44.,fr,Ceci est un commentaire synthétique pour la fonction factice 44.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 44,ceci est un commentaire synthétique pour la fonction factice 44,"// Dummy code snippet <NUM>
+void dummy_function_44() { /* This is a placeholder. */ }"
+DUMMY_45,"// Dummy code snippet 45
+void dummy_function_45() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 45.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 45.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 45,dies ist ein synthetischer kommentar für die dummy funktion 45,"// Dummy code snippet <NUM>
+void dummy_function_45() { /* This is a placeholder. */ }"
+DUMMY_46,"// Dummy code snippet 46
+void dummy_function_46() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 46.,es,Este es un comentario sintético para la función ficticia 46.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 46,este es un comentario sintético para la función ficticia 46,"// Dummy code snippet <NUM>
+void dummy_function_46() { /* This is a placeholder. */ }"
+DUMMY_47,"// Dummy code snippet 47
+void dummy_function_47() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 47.,es,Este es un comentario sintético para la función ficticia 47.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 47,este es un comentario sintético para la función ficticia 47,"// Dummy code snippet <NUM>
+void dummy_function_47() { /* This is a placeholder. */ }"
+DUMMY_48,"// Dummy code snippet 48
+void dummy_function_48() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 48.,en,This is a synthetic comment for dummy function 48.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 48,this is a synthetic comment for dummy function 48,"// Dummy code snippet <NUM>
+void dummy_function_48() { /* This is a placeholder. */ }"
+DUMMY_49,"// Dummy code snippet 49
+void dummy_function_49() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 49.,hi,यह डमी फ़ंक्शन 49 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 49,यह डम फकशन 49 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_49() { /* This is a placeholder. */ }"
+DUMMY_50,"// Dummy code snippet 50
+void dummy_function_50() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 50.,te,డమ్మీ ఫంక్షన్ 50 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 50,డమమ ఫకషన 50 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_50() { /* This is a placeholder. */ }"
+DUMMY_51,"// Dummy code snippet 51
+void dummy_function_51() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 51.,es,Este es un comentario sintético para la función ficticia 51.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 51,este es un comentario sintético para la función ficticia 51,"// Dummy code snippet <NUM>
+void dummy_function_51() { /* This is a placeholder. */ }"
+DUMMY_52,"// Dummy code snippet 52
+void dummy_function_52() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 52.,fr,Ceci est un commentaire synthétique pour la fonction factice 52.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 52,ceci est un commentaire synthétique pour la fonction factice 52,"// Dummy code snippet <NUM>
+void dummy_function_52() { /* This is a placeholder. */ }"
+DUMMY_53,"// Dummy code snippet 53
+void dummy_function_53() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 53.,fr,Ceci est un commentaire synthétique pour la fonction factice 53.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 53,ceci est un commentaire synthétique pour la fonction factice 53,"// Dummy code snippet <NUM>
+void dummy_function_53() { /* This is a placeholder. */ }"
+DUMMY_54,"// Dummy code snippet 54
+void dummy_function_54() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 54.,es,Este es un comentario sintético para la función ficticia 54.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 54,este es un comentario sintético para la función ficticia 54,"// Dummy code snippet <NUM>
+void dummy_function_54() { /* This is a placeholder. */ }"
+DUMMY_55,"// Dummy code snippet 55
+void dummy_function_55() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 55.,en,This is a synthetic comment for dummy function 55.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 55,this is a synthetic comment for dummy function 55,"// Dummy code snippet <NUM>
+void dummy_function_55() { /* This is a placeholder. */ }"
+DUMMY_56,"// Dummy code snippet 56
+void dummy_function_56() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 56.,kn,Translated comment for dummy function 56 in kn (translation failed).,Synthetic,Generated_Data,this is a synthetic comment for dummy function 56,translated comment for dummy function 56 in kn translation failed,"// Dummy code snippet <NUM>
+void dummy_function_56() { /* This is a placeholder. */ }"
+DUMMY_57,"// Dummy code snippet 57
+void dummy_function_57() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 57.,hi,यह डमी फ़ंक्शन 57 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 57,यह डम फकशन 57 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_57() { /* This is a placeholder. */ }"
+DUMMY_58,"// Dummy code snippet 58
+void dummy_function_58() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 58.,de,Translated comment for dummy function 58 in de (translation failed).,Synthetic,Generated_Data,this is a synthetic comment for dummy function 58,translated comment for dummy function 58 in de translation failed,"// Dummy code snippet <NUM>
+void dummy_function_58() { /* This is a placeholder. */ }"
+DUMMY_59,"// Dummy code snippet 59
+void dummy_function_59() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 59.,hi,यह डमी फ़ंक्शन 59 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 59,यह डम फकशन 59 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_59() { /* This is a placeholder. */ }"
+DUMMY_60,"// Dummy code snippet 60
+void dummy_function_60() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 60.,ml,ഡമ്മി ഫംഗ്ഷനുള്ള സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 60,ഡമമ ഫഗഷനളള സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_60() { /* This is a placeholder. */ }"
+DUMMY_61,"// Dummy code snippet 61
+void dummy_function_61() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 61.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 61 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 61,ಇದ ಡಮಮ ಫಕಷನ 61 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_61() { /* This is a placeholder. */ }"
+DUMMY_62,"// Dummy code snippet 62
+void dummy_function_62() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 62.,ta,போலி செயல்பாடு 62 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 62,பல சயலபட 62 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_62() { /* This is a placeholder. */ }"
+DUMMY_63,"// Dummy code snippet 63
+void dummy_function_63() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 63.,ml,ഡമ്മി ഫംഗ്ഷനുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത് 63.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 63,ഡമമ ഫഗഷനളള ഒര സനതററക അഭപരയമണത 63,"// Dummy code snippet <NUM>
+void dummy_function_63() { /* This is a placeholder. */ }"
+DUMMY_64,"// Dummy code snippet 64
+void dummy_function_64() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 64.,fr,Ceci est un commentaire synthétique pour la fonction factice 64.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 64,ceci est un commentaire synthétique pour la fonction factice 64,"// Dummy code snippet <NUM>
+void dummy_function_64() { /* This is a placeholder. */ }"
+DUMMY_65,"// Dummy code snippet 65
+void dummy_function_65() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 65.,ta,போலி செயல்பாடு 65 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 65,பல சயலபட 65 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_65() { /* This is a placeholder. */ }"
+DUMMY_66,"// Dummy code snippet 66
+void dummy_function_66() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 66.,it,Questo è un commento sintetico per la funzione fittizia 66.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 66,questo è un commento sintetico per la funzione fittizia 66,"// Dummy code snippet <NUM>
+void dummy_function_66() { /* This is a placeholder. */ }"
+DUMMY_67,"// Dummy code snippet 67
+void dummy_function_67() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 67.,it,Questo è un commento sintetico per la funzione fittizia 67.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 67,questo è un commento sintetico per la funzione fittizia 67,"// Dummy code snippet <NUM>
+void dummy_function_67() { /* This is a placeholder. */ }"
+DUMMY_68,"// Dummy code snippet 68
+void dummy_function_68() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 68.,es,Este es un comentario sintético para la función ficticia 68.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 68,este es un comentario sintético para la función ficticia 68,"// Dummy code snippet <NUM>
+void dummy_function_68() { /* This is a placeholder. */ }"
+DUMMY_69,"// Dummy code snippet 69
+void dummy_function_69() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 69.,es,Este es un comentario sintético para la función ficticia 69.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 69,este es un comentario sintético para la función ficticia 69,"// Dummy code snippet <NUM>
+void dummy_function_69() { /* This is a placeholder. */ }"
+DUMMY_70,"// Dummy code snippet 70
+void dummy_function_70() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 70.,it,Questo è un commento sintetico per la funzione fittizia 70.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 70,questo è un commento sintetico per la funzione fittizia 70,"// Dummy code snippet <NUM>
+void dummy_function_70() { /* This is a placeholder. */ }"
+DUMMY_71,"// Dummy code snippet 71
+void dummy_function_71() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 71.,ta,போலி செயல்பாடு 71 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 71,பல சயலபட 71 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_71() { /* This is a placeholder. */ }"
+DUMMY_72,"// Dummy code snippet 72
+void dummy_function_72() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 72.,es,Este es un comentario sintético para la función ficticia 72.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 72,este es un comentario sintético para la función ficticia 72,"// Dummy code snippet <NUM>
+void dummy_function_72() { /* This is a placeholder. */ }"
+DUMMY_73,"// Dummy code snippet 73
+void dummy_function_73() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 73.,te,డమ్మీ ఫంక్షన్ 73 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 73,డమమ ఫకషన 73 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_73() { /* This is a placeholder. */ }"
+DUMMY_74,"// Dummy code snippet 74
+void dummy_function_74() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 74.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 74 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 74,ಇದ ಡಮಮ ಫಕಷನ 74 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_74() { /* This is a placeholder. */ }"
+DUMMY_75,"// Dummy code snippet 75
+void dummy_function_75() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 75.,it,Questo è un commento sintetico per la funzione fittizia 75.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 75,questo è un commento sintetico per la funzione fittizia 75,"// Dummy code snippet <NUM>
+void dummy_function_75() { /* This is a placeholder. */ }"
+DUMMY_76,"// Dummy code snippet 76
+void dummy_function_76() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 76.,es,Este es un comentario sintético para la función ficticia 76.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 76,este es un comentario sintético para la función ficticia 76,"// Dummy code snippet <NUM>
+void dummy_function_76() { /* This is a placeholder. */ }"
+DUMMY_77,"// Dummy code snippet 77
+void dummy_function_77() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 77.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 77.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 77,dies ist ein synthetischer kommentar für die dummy funktion 77,"// Dummy code snippet <NUM>
+void dummy_function_77() { /* This is a placeholder. */ }"
+DUMMY_78,"// Dummy code snippet 78
+void dummy_function_78() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 78.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 78 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 78,ಇದ ಡಮಮ ಫಕಷನ 78 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_78() { /* This is a placeholder. */ }"
+DUMMY_79,"// Dummy code snippet 79
+void dummy_function_79() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 79.,te,డమ్మీ ఫంక్షన్ 79 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 79,డమమ ఫకషన 79 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_79() { /* This is a placeholder. */ }"
+DUMMY_80,"// Dummy code snippet 80
+void dummy_function_80() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 80.,te,డమ్మీ ఫంక్షన్ 80 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 80,డమమ ఫకషన 80 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_80() { /* This is a placeholder. */ }"
+DUMMY_81,"// Dummy code snippet 81
+void dummy_function_81() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 81.,it,Questo è un commento sintetico per la funzione fittizia 81.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 81,questo è un commento sintetico per la funzione fittizia 81,"// Dummy code snippet <NUM>
+void dummy_function_81() { /* This is a placeholder. */ }"
+DUMMY_82,"// Dummy code snippet 82
+void dummy_function_82() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 82.,en,This is a synthetic comment for dummy function 82.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 82,this is a synthetic comment for dummy function 82,"// Dummy code snippet <NUM>
+void dummy_function_82() { /* This is a placeholder. */ }"
+DUMMY_83,"// Dummy code snippet 83
+void dummy_function_83() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 83.,en,This is a synthetic comment for dummy function 83.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 83,this is a synthetic comment for dummy function 83,"// Dummy code snippet <NUM>
+void dummy_function_83() { /* This is a placeholder. */ }"
+DUMMY_84,"// Dummy code snippet 84
+void dummy_function_84() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 84.,it,Questo è un commento sintetico per la funzione fittizia 84.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 84,questo è un commento sintetico per la funzione fittizia 84,"// Dummy code snippet <NUM>
+void dummy_function_84() { /* This is a placeholder. */ }"
+DUMMY_85,"// Dummy code snippet 85
+void dummy_function_85() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 85.,es,Este es un comentario sintético para la función ficticia 85.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 85,este es un comentario sintético para la función ficticia 85,"// Dummy code snippet <NUM>
+void dummy_function_85() { /* This is a placeholder. */ }"
+DUMMY_86,"// Dummy code snippet 86
+void dummy_function_86() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 86.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 86 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 86,ಇದ ಡಮಮ ಫಕಷನ 86 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_86() { /* This is a placeholder. */ }"
+DUMMY_87,"// Dummy code snippet 87
+void dummy_function_87() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 87.,te,డమ్మీ ఫంక్షన్ 87 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 87,డమమ ఫకషన 87 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_87() { /* This is a placeholder. */ }"
+DUMMY_88,"// Dummy code snippet 88
+void dummy_function_88() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 88.,te,డమ్మీ ఫంక్షన్ 88 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 88,డమమ ఫకషన 88 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_88() { /* This is a placeholder. */ }"
+DUMMY_89,"// Dummy code snippet 89
+void dummy_function_89() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 89.,fr,Ceci est un commentaire synthétique pour la fonction factice 89.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 89,ceci est un commentaire synthétique pour la fonction factice 89,"// Dummy code snippet <NUM>
+void dummy_function_89() { /* This is a placeholder. */ }"
+DUMMY_90,"// Dummy code snippet 90
+void dummy_function_90() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 90.,fr,Ceci est un commentaire synthétique pour la fonction factice 90.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 90,ceci est un commentaire synthétique pour la fonction factice 90,"// Dummy code snippet <NUM>
+void dummy_function_90() { /* This is a placeholder. */ }"
+DUMMY_91,"// Dummy code snippet 91
+void dummy_function_91() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 91.,en,This is a synthetic comment for dummy function 91.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 91,this is a synthetic comment for dummy function 91,"// Dummy code snippet <NUM>
+void dummy_function_91() { /* This is a placeholder. */ }"
+DUMMY_92,"// Dummy code snippet 92
+void dummy_function_92() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 92.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 92.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 92,dies ist ein synthetischer kommentar für die dummy funktion 92,"// Dummy code snippet <NUM>
+void dummy_function_92() { /* This is a placeholder. */ }"
+DUMMY_93,"// Dummy code snippet 93
+void dummy_function_93() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 93.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 93.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 93,dies ist ein synthetischer kommentar für die dummy funktion 93,"// Dummy code snippet <NUM>
+void dummy_function_93() { /* This is a placeholder. */ }"
+DUMMY_94,"// Dummy code snippet 94
+void dummy_function_94() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 94.,fr,Ceci est un commentaire synthétique pour la fonction factice 94.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 94,ceci est un commentaire synthétique pour la fonction factice 94,"// Dummy code snippet <NUM>
+void dummy_function_94() { /* This is a placeholder. */ }"
+DUMMY_95,"// Dummy code snippet 95
+void dummy_function_95() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 95.,es,Este es un comentario sintético para la función ficticia 95.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 95,este es un comentario sintético para la función ficticia 95,"// Dummy code snippet <NUM>
+void dummy_function_95() { /* This is a placeholder. */ }"
+DUMMY_96,"// Dummy code snippet 96
+void dummy_function_96() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 96.,hi,यह डमी फ़ंक्शन 96 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 96,यह डम फकशन 96 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_96() { /* This is a placeholder. */ }"
+DUMMY_97,"// Dummy code snippet 97
+void dummy_function_97() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 97.,te,డమ్మీ ఫంక్షన్ 97 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 97,డమమ ఫకషన 97 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_97() { /* This is a placeholder. */ }"
+DUMMY_98,"// Dummy code snippet 98
+void dummy_function_98() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 98.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 98 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 98,ಇದ ಡಮಮ ಫಕಷನ 98 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_98() { /* This is a placeholder. */ }"
+DUMMY_99,"// Dummy code snippet 99
+void dummy_function_99() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 99.,it,Questo è un commento sintetico per la funzione fittizia 99.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 99,questo è un commento sintetico per la funzione fittizia 99,"// Dummy code snippet <NUM>
+void dummy_function_99() { /* This is a placeholder. */ }"
+DUMMY_100,"// Dummy code snippet 100
+void dummy_function_100() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 100.,en,This is a synthetic comment for dummy function 100.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 100,this is a synthetic comment for dummy function 100,"// Dummy code snippet <NUM>
+void dummy_function_100() { /* This is a placeholder. */ }"
+DUMMY_101,"// Dummy code snippet 101
+void dummy_function_101() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 101.,hi,यह डमी फ़ंक्शन 101 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 101,यह डम फकशन 101 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_101() { /* This is a placeholder. */ }"
+DUMMY_102,"// Dummy code snippet 102
+void dummy_function_102() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 102.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 102 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 102,ಇದ ಡಮಮ ಫಕಷನ 102 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_102() { /* This is a placeholder. */ }"
+DUMMY_103,"// Dummy code snippet 103
+void dummy_function_103() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 103.,hi,यह डमी फ़ंक्शन 103 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 103,यह डम फकशन 103 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_103() { /* This is a placeholder. */ }"
+DUMMY_104,"// Dummy code snippet 104
+void dummy_function_104() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 104.,it,Questo è un commento sintetico per la funzione fittizia 104.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 104,questo è un commento sintetico per la funzione fittizia 104,"// Dummy code snippet <NUM>
+void dummy_function_104() { /* This is a placeholder. */ }"
+DUMMY_105,"// Dummy code snippet 105
+void dummy_function_105() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 105.,ta,போலி செயல்பாடு 105 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 105,பல சயலபட 105 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_105() { /* This is a placeholder. */ }"
+DUMMY_106,"// Dummy code snippet 106
+void dummy_function_106() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 106.,fr,Ceci est un commentaire synthétique pour la fonction factice 106.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 106,ceci est un commentaire synthétique pour la fonction factice 106,"// Dummy code snippet <NUM>
+void dummy_function_106() { /* This is a placeholder. */ }"
+DUMMY_107,"// Dummy code snippet 107
+void dummy_function_107() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 107.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 107 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 107,ಇದ ಡಮಮ ಫಕಷನ 107 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_107() { /* This is a placeholder. */ }"
+DUMMY_108,"// Dummy code snippet 108
+void dummy_function_108() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 108.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 108 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 108,ಇದ ಡಮಮ ಫಕಷನ 108 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_108() { /* This is a placeholder. */ }"
+DUMMY_109,"// Dummy code snippet 109
+void dummy_function_109() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 109.,it,Questo è un commento sintetico per la funzione fittizia 109.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 109,questo è un commento sintetico per la funzione fittizia 109,"// Dummy code snippet <NUM>
+void dummy_function_109() { /* This is a placeholder. */ }"
+DUMMY_110,"// Dummy code snippet 110
+void dummy_function_110() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 110.,it,Questo è un commento sintetico per la funzione fittizia 110.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 110,questo è un commento sintetico per la funzione fittizia 110,"// Dummy code snippet <NUM>
+void dummy_function_110() { /* This is a placeholder. */ }"
+DUMMY_111,"// Dummy code snippet 111
+void dummy_function_111() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 111.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 111.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 111,dies ist ein synthetischer kommentar für die dummy funktion 111,"// Dummy code snippet <NUM>
+void dummy_function_111() { /* This is a placeholder. */ }"
+DUMMY_112,"// Dummy code snippet 112
+void dummy_function_112() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 112.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 112 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 112,ಇದ ಡಮಮ ಫಕಷನ 112 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_112() { /* This is a placeholder. */ }"
+DUMMY_113,"// Dummy code snippet 113
+void dummy_function_113() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 113.,en,This is a synthetic comment for dummy function 113.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 113,this is a synthetic comment for dummy function 113,"// Dummy code snippet <NUM>
+void dummy_function_113() { /* This is a placeholder. */ }"
+DUMMY_114,"// Dummy code snippet 114
+void dummy_function_114() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 114.,ml,114 ഡമ്മി ഫംഗ്ഷനുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 114,114 ഡമമ ഫഗഷനളള ഒര സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_114() { /* This is a placeholder. */ }"
+DUMMY_115,"// Dummy code snippet 115
+void dummy_function_115() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 115.,en,This is a synthetic comment for dummy function 115.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 115,this is a synthetic comment for dummy function 115,"// Dummy code snippet <NUM>
+void dummy_function_115() { /* This is a placeholder. */ }"
+DUMMY_116,"// Dummy code snippet 116
+void dummy_function_116() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 116.,ta,போலி செயல்பாடு 116 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 116,பல சயலபட 116 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_116() { /* This is a placeholder. */ }"
+DUMMY_117,"// Dummy code snippet 117
+void dummy_function_117() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 117.,ta,போலி செயல்பாடு 117 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 117,பல சயலபட 117 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_117() { /* This is a placeholder. */ }"
+DUMMY_118,"// Dummy code snippet 118
+void dummy_function_118() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 118.,ta,போலி செயல்பாடு 118 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 118,பல சயலபட 118 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_118() { /* This is a placeholder. */ }"
+DUMMY_119,"// Dummy code snippet 119
+void dummy_function_119() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 119.,ml,119 ഡമ്മി ഫംഗ്ഷനുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 119,119 ഡമമ ഫഗഷനളള ഒര സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_119() { /* This is a placeholder. */ }"
+DUMMY_120,"// Dummy code snippet 120
+void dummy_function_120() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 120.,it,Questo è un commento sintetico per la funzione fittizia 120.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 120,questo è un commento sintetico per la funzione fittizia 120,"// Dummy code snippet <NUM>
+void dummy_function_120() { /* This is a placeholder. */ }"
+DUMMY_121,"// Dummy code snippet 121
+void dummy_function_121() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 121.,fr,Ceci est un commentaire synthétique pour la fonction factice 121.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 121,ceci est un commentaire synthétique pour la fonction factice 121,"// Dummy code snippet <NUM>
+void dummy_function_121() { /* This is a placeholder. */ }"
+DUMMY_122,"// Dummy code snippet 122
+void dummy_function_122() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 122.,hi,यह डमी फ़ंक्शन 122 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 122,यह डम फकशन 122 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_122() { /* This is a placeholder. */ }"
+DUMMY_123,"// Dummy code snippet 123
+void dummy_function_123() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 123.,hi,यह डमी फ़ंक्शन 123 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 123,यह डम फकशन 123 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_123() { /* This is a placeholder. */ }"
+DUMMY_124,"// Dummy code snippet 124
+void dummy_function_124() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 124.,it,Questo è un commento sintetico per la funzione fittizia 124.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 124,questo è un commento sintetico per la funzione fittizia 124,"// Dummy code snippet <NUM>
+void dummy_function_124() { /* This is a placeholder. */ }"
+DUMMY_125,"// Dummy code snippet 125
+void dummy_function_125() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 125.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 125.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 125,dies ist ein synthetischer kommentar für die dummy funktion 125,"// Dummy code snippet <NUM>
+void dummy_function_125() { /* This is a placeholder. */ }"
+DUMMY_126,"// Dummy code snippet 126
+void dummy_function_126() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 126.,ml,ഡമ്മി ഫംഗ്ഷനുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത്. 126.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 126,ഡമമ ഫഗഷനളള ഒര സനതററക അഭപരയമണത 126,"// Dummy code snippet <NUM>
+void dummy_function_126() { /* This is a placeholder. */ }"
+DUMMY_127,"// Dummy code snippet 127
+void dummy_function_127() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 127.,it,Questo è un commento sintetico per la funzione fittizia 127.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 127,questo è un commento sintetico per la funzione fittizia 127,"// Dummy code snippet <NUM>
+void dummy_function_127() { /* This is a placeholder. */ }"
+DUMMY_128,"// Dummy code snippet 128
+void dummy_function_128() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 128.,en,This is a synthetic comment for dummy function 128.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 128,this is a synthetic comment for dummy function 128,"// Dummy code snippet <NUM>
+void dummy_function_128() { /* This is a placeholder. */ }"
+DUMMY_129,"// Dummy code snippet 129
+void dummy_function_129() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 129.,hi,यह डमी फ़ंक्शन 129 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 129,यह डम फकशन 129 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_129() { /* This is a placeholder. */ }"
+DUMMY_130,"// Dummy code snippet 130
+void dummy_function_130() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 130.,te,డమ్మీ ఫంక్షన్ 130 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 130,డమమ ఫకషన 130 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_130() { /* This is a placeholder. */ }"
+DUMMY_131,"// Dummy code snippet 131
+void dummy_function_131() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 131.,it,Questo è un commento sintetico per la funzione fittizia 131.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 131,questo è un commento sintetico per la funzione fittizia 131,"// Dummy code snippet <NUM>
+void dummy_function_131() { /* This is a placeholder. */ }"
+DUMMY_132,"// Dummy code snippet 132
+void dummy_function_132() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 132.,es,Este es un comentario sintético para la función ficticia 132.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 132,este es un comentario sintético para la función ficticia 132,"// Dummy code snippet <NUM>
+void dummy_function_132() { /* This is a placeholder. */ }"
+DUMMY_133,"// Dummy code snippet 133
+void dummy_function_133() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 133.,en,This is a synthetic comment for dummy function 133.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 133,this is a synthetic comment for dummy function 133,"// Dummy code snippet <NUM>
+void dummy_function_133() { /* This is a placeholder. */ }"
+DUMMY_134,"// Dummy code snippet 134
+void dummy_function_134() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 134.,te,డమ్మీ ఫంక్షన్ 134 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 134,డమమ ఫకషన 134 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_134() { /* This is a placeholder. */ }"
+DUMMY_135,"// Dummy code snippet 135
+void dummy_function_135() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 135.,en,This is a synthetic comment for dummy function 135.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 135,this is a synthetic comment for dummy function 135,"// Dummy code snippet <NUM>
+void dummy_function_135() { /* This is a placeholder. */ }"
+DUMMY_136,"// Dummy code snippet 136
+void dummy_function_136() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 136.,fr,Ceci est un commentaire synthétique pour la fonction factice 136.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 136,ceci est un commentaire synthétique pour la fonction factice 136,"// Dummy code snippet <NUM>
+void dummy_function_136() { /* This is a placeholder. */ }"
+DUMMY_137,"// Dummy code snippet 137
+void dummy_function_137() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 137.,ta,போலி செயல்பாடு 137 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 137,பல சயலபட 137 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_137() { /* This is a placeholder. */ }"
+DUMMY_138,"// Dummy code snippet 138
+void dummy_function_138() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 138.,es,Este es un comentario sintético para la función ficticia 138.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 138,este es un comentario sintético para la función ficticia 138,"// Dummy code snippet <NUM>
+void dummy_function_138() { /* This is a placeholder. */ }"
+DUMMY_139,"// Dummy code snippet 139
+void dummy_function_139() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 139.,fr,Ceci est un commentaire synthétique pour la fonction factice 139.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 139,ceci est un commentaire synthétique pour la fonction factice 139,"// Dummy code snippet <NUM>
+void dummy_function_139() { /* This is a placeholder. */ }"
+DUMMY_140,"// Dummy code snippet 140
+void dummy_function_140() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 140.,es,Este es un comentario sintético para la función ficticia 140.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 140,este es un comentario sintético para la función ficticia 140,"// Dummy code snippet <NUM>
+void dummy_function_140() { /* This is a placeholder. */ }"
+DUMMY_141,"// Dummy code snippet 141
+void dummy_function_141() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 141.,ml,141 ഡമ്മി ഫംഗ്ഷനുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 141,141 ഡമമ ഫഗഷനളള ഒര സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_141() { /* This is a placeholder. */ }"
+DUMMY_142,"// Dummy code snippet 142
+void dummy_function_142() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 142.,fr,Ceci est un commentaire synthétique pour la fonction factice 142.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 142,ceci est un commentaire synthétique pour la fonction factice 142,"// Dummy code snippet <NUM>
+void dummy_function_142() { /* This is a placeholder. */ }"
+DUMMY_143,"// Dummy code snippet 143
+void dummy_function_143() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 143.,en,This is a synthetic comment for dummy function 143.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 143,this is a synthetic comment for dummy function 143,"// Dummy code snippet <NUM>
+void dummy_function_143() { /* This is a placeholder. */ }"
+DUMMY_144,"// Dummy code snippet 144
+void dummy_function_144() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 144.,es,Este es un comentario sintético para la función ficticia 144.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 144,este es un comentario sintético para la función ficticia 144,"// Dummy code snippet <NUM>
+void dummy_function_144() { /* This is a placeholder. */ }"
+DUMMY_145,"// Dummy code snippet 145
+void dummy_function_145() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 145.,es,Este es un comentario sintético para la función ficticia 145.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 145,este es un comentario sintético para la función ficticia 145,"// Dummy code snippet <NUM>
+void dummy_function_145() { /* This is a placeholder. */ }"
+DUMMY_146,"// Dummy code snippet 146
+void dummy_function_146() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 146.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 146 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 146,ಇದ ಡಮಮ ಫಕಷನ 146 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_146() { /* This is a placeholder. */ }"
+DUMMY_147,"// Dummy code snippet 147
+void dummy_function_147() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 147.,hi,यह डमी फ़ंक्शन 147 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 147,यह डम फकशन 147 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_147() { /* This is a placeholder. */ }"
+DUMMY_148,"// Dummy code snippet 148
+void dummy_function_148() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 148.,it,Questo è un commento sintetico per la funzione fittizia 148.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 148,questo è un commento sintetico per la funzione fittizia 148,"// Dummy code snippet <NUM>
+void dummy_function_148() { /* This is a placeholder. */ }"
+DUMMY_149,"// Dummy code snippet 149
+void dummy_function_149() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 149.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 149.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 149,dies ist ein synthetischer kommentar für die dummy funktion 149,"// Dummy code snippet <NUM>
+void dummy_function_149() { /* This is a placeholder. */ }"
+DUMMY_150,"// Dummy code snippet 150
+void dummy_function_150() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 150.,ta,போலி செயல்பாடு 150 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 150,பல சயலபட 150 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_150() { /* This is a placeholder. */ }"
+DUMMY_151,"// Dummy code snippet 151
+void dummy_function_151() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 151.,hi,यह डमी फ़ंक्शन 151 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 151,यह डम फकशन 151 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_151() { /* This is a placeholder. */ }"
+DUMMY_152,"// Dummy code snippet 152
+void dummy_function_152() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 152.,es,Este es un comentario sintético para la función ficticia 152.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 152,este es un comentario sintético para la función ficticia 152,"// Dummy code snippet <NUM>
+void dummy_function_152() { /* This is a placeholder. */ }"
+DUMMY_153,"// Dummy code snippet 153
+void dummy_function_153() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 153.,fr,Ceci est un commentaire synthétique pour la fonction factice 153.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 153,ceci est un commentaire synthétique pour la fonction factice 153,"// Dummy code snippet <NUM>
+void dummy_function_153() { /* This is a placeholder. */ }"
+DUMMY_154,"// Dummy code snippet 154
+void dummy_function_154() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 154.,en,This is a synthetic comment for dummy function 154.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 154,this is a synthetic comment for dummy function 154,"// Dummy code snippet <NUM>
+void dummy_function_154() { /* This is a placeholder. */ }"
+DUMMY_155,"// Dummy code snippet 155
+void dummy_function_155() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 155.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 155 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 155,ಇದ ಡಮಮ ಫಕಷನ 155 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_155() { /* This is a placeholder. */ }"
+DUMMY_156,"// Dummy code snippet 156
+void dummy_function_156() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 156.,ta,போலி செயல்பாடு 156 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 156,பல சயலபட 156 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_156() { /* This is a placeholder. */ }"
+DUMMY_157,"// Dummy code snippet 157
+void dummy_function_157() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 157.,fr,Ceci est un commentaire synthétique pour la fonction factice 157.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 157,ceci est un commentaire synthétique pour la fonction factice 157,"// Dummy code snippet <NUM>
+void dummy_function_157() { /* This is a placeholder. */ }"
+DUMMY_158,"// Dummy code snippet 158
+void dummy_function_158() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 158.,hi,यह डमी फ़ंक्शन 158 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 158,यह डम फकशन 158 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_158() { /* This is a placeholder. */ }"
+DUMMY_159,"// Dummy code snippet 159
+void dummy_function_159() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 159.,hi,यह डमी फ़ंक्शन 159 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 159,यह डम फकशन 159 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_159() { /* This is a placeholder. */ }"
+DUMMY_160,"// Dummy code snippet 160
+void dummy_function_160() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 160.,it,Questo è un commento sintetico per la funzione fittizia 160.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 160,questo è un commento sintetico per la funzione fittizia 160,"// Dummy code snippet <NUM>
+void dummy_function_160() { /* This is a placeholder. */ }"
+DUMMY_161,"// Dummy code snippet 161
+void dummy_function_161() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 161.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 161.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 161,dies ist ein synthetischer kommentar für die dummy funktion 161,"// Dummy code snippet <NUM>
+void dummy_function_161() { /* This is a placeholder. */ }"
+DUMMY_162,"// Dummy code snippet 162
+void dummy_function_162() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 162.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 162.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 162,dies ist ein synthetischer kommentar für die dummy funktion 162,"// Dummy code snippet <NUM>
+void dummy_function_162() { /* This is a placeholder. */ }"
+DUMMY_163,"// Dummy code snippet 163
+void dummy_function_163() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 163.,en,This is a synthetic comment for dummy function 163.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 163,this is a synthetic comment for dummy function 163,"// Dummy code snippet <NUM>
+void dummy_function_163() { /* This is a placeholder. */ }"
+DUMMY_164,"// Dummy code snippet 164
+void dummy_function_164() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 164.,fr,Ceci est un commentaire synthétique pour la fonction factice 164.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 164,ceci est un commentaire synthétique pour la fonction factice 164,"// Dummy code snippet <NUM>
+void dummy_function_164() { /* This is a placeholder. */ }"
+DUMMY_165,"// Dummy code snippet 165
+void dummy_function_165() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 165.,es,Este es un comentario sintético para la función ficticia 165.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 165,este es un comentario sintético para la función ficticia 165,"// Dummy code snippet <NUM>
+void dummy_function_165() { /* This is a placeholder. */ }"
+DUMMY_166,"// Dummy code snippet 166
+void dummy_function_166() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 166.,es,Este es un comentario sintético para la función ficticia 166.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 166,este es un comentario sintético para la función ficticia 166,"// Dummy code snippet <NUM>
+void dummy_function_166() { /* This is a placeholder. */ }"
+DUMMY_167,"// Dummy code snippet 167
+void dummy_function_167() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 167.,es,Este es un comentario sintético para la función ficticia 167.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 167,este es un comentario sintético para la función ficticia 167,"// Dummy code snippet <NUM>
+void dummy_function_167() { /* This is a placeholder. */ }"
+DUMMY_168,"// Dummy code snippet 168
+void dummy_function_168() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 168.,hi,यह डमी फ़ंक्शन 168 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 168,यह डम फकशन 168 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_168() { /* This is a placeholder. */ }"
+DUMMY_169,"// Dummy code snippet 169
+void dummy_function_169() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 169.,te,డమ్మీ ఫంక్షన్ 169 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 169,డమమ ఫకషన 169 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_169() { /* This is a placeholder. */ }"
+DUMMY_170,"// Dummy code snippet 170
+void dummy_function_170() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 170.,te,డమ్మీ ఫంక్షన్ 170 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 170,డమమ ఫకషన 170 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_170() { /* This is a placeholder. */ }"
+DUMMY_171,"// Dummy code snippet 171
+void dummy_function_171() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 171.,fr,Ceci est un commentaire synthétique pour la fonction factice 171.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 171,ceci est un commentaire synthétique pour la fonction factice 171,"// Dummy code snippet <NUM>
+void dummy_function_171() { /* This is a placeholder. */ }"
+DUMMY_172,"// Dummy code snippet 172
+void dummy_function_172() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 172.,hi,यह डमी फ़ंक्शन 172 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 172,यह डम फकशन 172 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_172() { /* This is a placeholder. */ }"
+DUMMY_173,"// Dummy code snippet 173
+void dummy_function_173() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 173.,te,డమ్మీ ఫంక్షన్ 173 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 173,డమమ ఫకషన 173 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_173() { /* This is a placeholder. */ }"
+DUMMY_174,"// Dummy code snippet 174
+void dummy_function_174() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 174.,hi,यह डमी फ़ंक्शन 174 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 174,यह डम फकशन 174 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_174() { /* This is a placeholder. */ }"
+DUMMY_175,"// Dummy code snippet 175
+void dummy_function_175() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 175.,fr,Ceci est un commentaire synthétique pour la fonction factice 175.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 175,ceci est un commentaire synthétique pour la fonction factice 175,"// Dummy code snippet <NUM>
+void dummy_function_175() { /* This is a placeholder. */ }"
+DUMMY_176,"// Dummy code snippet 176
+void dummy_function_176() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 176.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 176.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 176,dies ist ein synthetischer kommentar für die dummy funktion 176,"// Dummy code snippet <NUM>
+void dummy_function_176() { /* This is a placeholder. */ }"
+DUMMY_177,"// Dummy code snippet 177
+void dummy_function_177() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 177.,ml,ഇത് 177 ഡമ്മി ഫംഗ്ഷനുള്ള ഒരു സിന്തറ്റിക് അഭിപ്രായമാണ്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 177,ഇത 177 ഡമമ ഫഗഷനളള ഒര സനതററക അഭപരയമണ,"// Dummy code snippet <NUM>
+void dummy_function_177() { /* This is a placeholder. */ }"
+DUMMY_178,"// Dummy code snippet 178
+void dummy_function_178() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 178.,hi,यह डमी फ़ंक्शन 178 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 178,यह डम फकशन 178 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_178() { /* This is a placeholder. */ }"
+DUMMY_179,"// Dummy code snippet 179
+void dummy_function_179() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 179.,fr,Ceci est un commentaire synthétique pour la fonction factice 179.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 179,ceci est un commentaire synthétique pour la fonction factice 179,"// Dummy code snippet <NUM>
+void dummy_function_179() { /* This is a placeholder. */ }"
+DUMMY_180,"// Dummy code snippet 180
+void dummy_function_180() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 180.,te,డమ్మీ ఫంక్షన్ 180 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 180,డమమ ఫకషన 180 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_180() { /* This is a placeholder. */ }"
+DUMMY_181,"// Dummy code snippet 181
+void dummy_function_181() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 181.,es,Este es un comentario sintético para la función ficticia 181.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 181,este es un comentario sintético para la función ficticia 181,"// Dummy code snippet <NUM>
+void dummy_function_181() { /* This is a placeholder. */ }"
+DUMMY_182,"// Dummy code snippet 182
+void dummy_function_182() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 182.,ta,போலி செயல்பாடு 182 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 182,பல சயலபட 182 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_182() { /* This is a placeholder. */ }"
+DUMMY_183,"// Dummy code snippet 183
+void dummy_function_183() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 183.,fr,Ceci est un commentaire synthétique pour la fonction factice 183.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 183,ceci est un commentaire synthétique pour la fonction factice 183,"// Dummy code snippet <NUM>
+void dummy_function_183() { /* This is a placeholder. */ }"
+DUMMY_184,"// Dummy code snippet 184
+void dummy_function_184() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 184.,ml,184 ഡമ്മി ഫംഗ്ഷനുള്ള സിന്തറ്റിക് അഭിപ്രായമാണിത്.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 184,184 ഡമമ ഫഗഷനളള സനതററക അഭപരയമണത,"// Dummy code snippet <NUM>
+void dummy_function_184() { /* This is a placeholder. */ }"
+DUMMY_185,"// Dummy code snippet 185
+void dummy_function_185() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 185.,en,This is a synthetic comment for dummy function 185.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 185,this is a synthetic comment for dummy function 185,"// Dummy code snippet <NUM>
+void dummy_function_185() { /* This is a placeholder. */ }"
+DUMMY_186,"// Dummy code snippet 186
+void dummy_function_186() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 186.,en,This is a synthetic comment for dummy function 186.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 186,this is a synthetic comment for dummy function 186,"// Dummy code snippet <NUM>
+void dummy_function_186() { /* This is a placeholder. */ }"
+DUMMY_187,"// Dummy code snippet 187
+void dummy_function_187() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 187.,hi,यह डमी फ़ंक्शन 187 के लिए एक सिंथेटिक टिप्पणी है।,Synthetic,Generated_Data,this is a synthetic comment for dummy function 187,यह डम फकशन 187 क लए एक सथटक टपपण ह,"// Dummy code snippet <NUM>
+void dummy_function_187() { /* This is a placeholder. */ }"
+DUMMY_188,"// Dummy code snippet 188
+void dummy_function_188() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 188.,en,This is a synthetic comment for dummy function 188.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 188,this is a synthetic comment for dummy function 188,"// Dummy code snippet <NUM>
+void dummy_function_188() { /* This is a placeholder. */ }"
+DUMMY_189,"// Dummy code snippet 189
+void dummy_function_189() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 189.,te,డమ్మీ ఫంక్షన్ 189 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 189,డమమ ఫకషన 189 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_189() { /* This is a placeholder. */ }"
+DUMMY_190,"// Dummy code snippet 190
+void dummy_function_190() { /* This is a placeholder. */ }",C++,This is a synthetic comment for dummy function 190.,es,Este es un comentario sintético para la función ficticia 190.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 190,este es un comentario sintético para la función ficticia 190,"// Dummy code snippet <NUM>
+void dummy_function_190() { /* This is a placeholder. */ }"
+DUMMY_191,"// Dummy code snippet 191
+void dummy_function_191() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 191.,it,Questo è un commento sintetico per la funzione fittizia 191.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 191,questo è un commento sintetico per la funzione fittizia 191,"// Dummy code snippet <NUM>
+void dummy_function_191() { /* This is a placeholder. */ }"
+DUMMY_192,"// Dummy code snippet 192
+void dummy_function_192() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 192.,ta,போலி செயல்பாடு 192 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 192,பல சயலபட 192 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_192() { /* This is a placeholder. */ }"
+DUMMY_193,"// Dummy code snippet 193
+void dummy_function_193() { /* This is a placeholder. */ }",Ruby,This is a synthetic comment for dummy function 193.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 193.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 193,dies ist ein synthetischer kommentar für die dummy funktion 193,"// Dummy code snippet <NUM>
+void dummy_function_193() { /* This is a placeholder. */ }"
+DUMMY_194,"// Dummy code snippet 194
+void dummy_function_194() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 194.,ta,போலி செயல்பாடு 194 க்கான செயற்கை கருத்து இது.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 194,பல சயலபட 194 ககன சயறக கரதத இத,"// Dummy code snippet <NUM>
+void dummy_function_194() { /* This is a placeholder. */ }"
+DUMMY_195,"// Dummy code snippet 195
+void dummy_function_195() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 195.,it,Questo è un commento sintetico per la funzione fittizia 195.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 195,questo è un commento sintetico per la funzione fittizia 195,"// Dummy code snippet <NUM>
+void dummy_function_195() { /* This is a placeholder. */ }"
+DUMMY_196,"// Dummy code snippet 196
+void dummy_function_196() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 196.,kn,ಇದು ಡಮ್ಮಿ ಫಂಕ್ಷನ್ 196 ಗಾಗಿ ಸಂಶ್ಲೇಷಿತ ಕಾಮೆಂಟ್ ಆಗಿದೆ.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 196,ಇದ ಡಮಮ ಫಕಷನ 196 ಗಗ ಸಶಲಷತ ಕಮಟ ಆಗದ,"// Dummy code snippet <NUM>
+void dummy_function_196() { /* This is a placeholder. */ }"
+DUMMY_197,"// Dummy code snippet 197
+void dummy_function_197() { /* This is a placeholder. */ }",Python,This is a synthetic comment for dummy function 197.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 197.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 197,dies ist ein synthetischer kommentar für die dummy funktion 197,"// Dummy code snippet <NUM>
+void dummy_function_197() { /* This is a placeholder. */ }"
+DUMMY_198,"// Dummy code snippet 198
+void dummy_function_198() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 198.,fr,Ceci est un commentaire synthétique pour la fonction factice 198.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 198,ceci est un commentaire synthétique pour la fonction factice 198,"// Dummy code snippet <NUM>
+void dummy_function_198() { /* This is a placeholder. */ }"
+DUMMY_199,"// Dummy code snippet 199
+void dummy_function_199() { /* This is a placeholder. */ }",Java,This is a synthetic comment for dummy function 199.,te,డమ్మీ ఫంక్షన్ 199 కోసం ఇది సింథటిక్ వ్యాఖ్య.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 199,డమమ ఫకషన 199 కస ఇద సథటక వయఖయ,"// Dummy code snippet <NUM>
+void dummy_function_199() { /* This is a placeholder. */ }"
+DUMMY_200,"// Dummy code snippet 200
+void dummy_function_200() { /* This is a placeholder. */ }",Javascript,This is a synthetic comment for dummy function 200.,de,Dies ist ein synthetischer Kommentar für die Dummy -Funktion 200.,Synthetic,Generated_Data,this is a synthetic comment for dummy function 200,dies ist ein synthetischer kommentar für die dummy funktion 200,"// Dummy code snippet <NUM>
+void dummy_function_200() { /* This is a placeholder. */ }"
